@@ -1,2 +1,2 @@
 let name = prompt("Як тебе звати?");
-alert('Привіт &{name}');
+alert('Привіт ${name}');
