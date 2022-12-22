@@ -1,1 +1,2 @@
-alert("Hello World");
+name = prompt("Як тебе звати?");
+alert(name);
